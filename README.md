@@ -1,0 +1,1 @@
+Created this code to show another vision about React architecture, i copied rocketseat code, but create a "Clean Code" to teach my students.
